@@ -1,0 +1,12 @@
+/Users/hminaya/Projects/SampleBubbleSort/SampleBubbleSort/bin/Debug/netcoreapp3.1/SampleBubbleSort.deps.json
+/Users/hminaya/Projects/SampleBubbleSort/SampleBubbleSort/bin/Debug/netcoreapp3.1/SampleBubbleSort.runtimeconfig.json
+/Users/hminaya/Projects/SampleBubbleSort/SampleBubbleSort/bin/Debug/netcoreapp3.1/SampleBubbleSort.runtimeconfig.dev.json
+/Users/hminaya/Projects/SampleBubbleSort/SampleBubbleSort/bin/Debug/netcoreapp3.1/SampleBubbleSort.dll
+/Users/hminaya/Projects/SampleBubbleSort/SampleBubbleSort/bin/Debug/netcoreapp3.1/SampleBubbleSort.pdb
+/Users/hminaya/Projects/SampleBubbleSort/SampleBubbleSort/obj/Debug/netcoreapp3.1/SampleBubbleSort.csprojAssemblyReference.cache
+/Users/hminaya/Projects/SampleBubbleSort/SampleBubbleSort/obj/Debug/netcoreapp3.1/SampleBubbleSort.AssemblyInfoInputs.cache
+/Users/hminaya/Projects/SampleBubbleSort/SampleBubbleSort/obj/Debug/netcoreapp3.1/SampleBubbleSort.AssemblyInfo.cs
+/Users/hminaya/Projects/SampleBubbleSort/SampleBubbleSort/obj/Debug/netcoreapp3.1/SampleBubbleSort.csproj.CoreCompileInputs.cache
+/Users/hminaya/Projects/SampleBubbleSort/SampleBubbleSort/obj/Debug/netcoreapp3.1/SampleBubbleSort.dll
+/Users/hminaya/Projects/SampleBubbleSort/SampleBubbleSort/obj/Debug/netcoreapp3.1/SampleBubbleSort.pdb
+/Users/hminaya/Projects/SampleBubbleSort/SampleBubbleSort/obj/Debug/netcoreapp3.1/SampleBubbleSort.genruntimeconfig.cache
